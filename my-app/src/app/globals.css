@@ -1,2 +1,6 @@
 @import "tailwindcss";
 
+.miclase{
+    background-color: red;
+    color: white;
+}
